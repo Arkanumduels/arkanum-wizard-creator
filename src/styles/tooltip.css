@@ -1,0 +1,14 @@
+.tooltip-right {
+  position: fixed !important;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 300px; /* Adjust width as needed */
+  max-width: none;
+  z-index: 1000; /* Ensure it appears on top */
+}
+
+.tooltip-content {
+  white-space: pre-wrap; /* Maintain line breaks and formatting */
+  overflow-wrap: break-word; /* Prevent long words from overflowing */
+}
