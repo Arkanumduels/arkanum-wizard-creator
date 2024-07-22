@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/arkanum-wizard-creator/static/css/main.b6e03a46.css",
+    "main.css": "/arkanum-wizard-creator/static/css/main.4ebcaf42.css",
     "main.js": "/arkanum-wizard-creator/static/js/main.243e939f.js",
     "static/js/239.39ef3f19.chunk.js": "/arkanum-wizard-creator/static/js/239.39ef3f19.chunk.js",
     "static/js/213.a6718fa4.chunk.js": "/arkanum-wizard-creator/static/js/213.a6718fa4.chunk.js",
     "static/js/732.b55a0cdd.chunk.js": "/arkanum-wizard-creator/static/js/732.b55a0cdd.chunk.js",
     "static/media/banner.jpg": "/arkanum-wizard-creator/static/media/banner.dca1a63bbe2356709b00.jpg",
     "index.html": "/arkanum-wizard-creator/index.html",
-    "main.b6e03a46.css.map": "/arkanum-wizard-creator/static/css/main.b6e03a46.css.map",
+    "main.4ebcaf42.css.map": "/arkanum-wizard-creator/static/css/main.4ebcaf42.css.map",
     "main.243e939f.js.map": "/arkanum-wizard-creator/static/js/main.243e939f.js.map",
     "239.39ef3f19.chunk.js.map": "/arkanum-wizard-creator/static/js/239.39ef3f19.chunk.js.map",
     "213.a6718fa4.chunk.js.map": "/arkanum-wizard-creator/static/js/213.a6718fa4.chunk.js.map",
     "732.b55a0cdd.chunk.js.map": "/arkanum-wizard-creator/static/js/732.b55a0cdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6e03a46.css",
+    "static/css/main.4ebcaf42.css",
     "static/js/main.243e939f.js"
   ]
 }
